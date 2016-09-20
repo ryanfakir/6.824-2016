@@ -6,6 +6,7 @@ import "math/big"
 
 import "fmt"
 
+
 type Clerk struct {
 	servers []string
 	// You will have to modify this struct.
